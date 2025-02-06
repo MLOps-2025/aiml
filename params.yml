@@ -6,7 +6,7 @@ base:
 data_sources:
   raw_data_csv: data/raw/insurance.csv
 
-load data:
+load_data:
   clean_data: data/processed/insurance_1.csv
 
 split_data:
