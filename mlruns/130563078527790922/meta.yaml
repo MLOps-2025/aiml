@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/130563078527790922
+creation_time: 1738907765802
+experiment_id: '130563078527790922'
+last_update_time: 1738907765802
+lifecycle_stage: active
+name: insurance_exp

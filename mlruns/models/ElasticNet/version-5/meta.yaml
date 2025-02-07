@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1738908796722
+current_stage: None
+description: ''
+last_updated_timestamp: 1738908796722
+name: ElasticNet
+run_id: 90cd8e52af084130a5b9d8aa0741dfee
+run_link: ''
+source: mlflow-artifacts:/130563078527790922/90cd8e52af084130a5b9d8aa0741dfee/artifacts/model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/130563078527790922/90cd8e52af084130a5b9d8aa0741dfee/artifacts/model
+user_id: null
+version: 5

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/130563078527790922/24e216b5526b4dd78a423b6d5800ff75/artifacts
+end_time: 1738909974069
+entry_point_name: ''
+experiment_id: '130563078527790922'
+lifecycle_stage: active
+run_id: 24e216b5526b4dd78a423b6d5800ff75
+run_name: mlops
+run_uuid: 24e216b5526b4dd78a423b6d5800ff75
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738909968401
+status: 3
+tags: []
+user_id: manes
